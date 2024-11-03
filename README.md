@@ -52,8 +52,8 @@ ansible-galaxy collection install community.general
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/apache-config-project.git
-   cd apache-config-project
+   git clone https://github.com/abdulrahman-elgohary/Apache.git
+   cd apache
    ```
 
 2. **Install dependencies**
