@@ -8,8 +8,6 @@
 - [Project Structure](#project-structure)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
 
 ## Overview
 
